@@ -1,5 +1,5 @@
-<h1 align="center">Olá👋, Eu sou o Victor</h1>
-<h3 align="center">Um aspirante a apaixonado por construir produtos digitais</h3>
+<h1 align="center">Olá👋, Eu sou o Victor, mas pode me chamar de Vih</h1>
+<h3 align="center">Um aspirante a apaixonado por construir produtos digitais, estudo atualmente tenho formação em Engenharia da Computação pela universidade Anhanguera e estudo ADS pela universidade Uninter.</h3>
 
 - Eu atuamente estou trabalhando em um projeto de **Loja Virtual**
 
